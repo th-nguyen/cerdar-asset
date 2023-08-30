@@ -1,65 +1,65 @@
 [
-  {
-    "id": 1,
-    "icon": "medicine-marker.png",
-    "tên icon": "医療機関",
-    "mô tả icon": "医療機関",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/4038488306-medicine-marker.png"
-  },
-  {
-    "id": 2,
-    "icon": "keisatu-marker.png",
-    "tên icon": "警察署・交番",
-    "mô tả icon": "警察署・交番",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/393250868-keisatu-marker.png"
-  },
-  {
-    "id": 3,
-    "icon": "shoubo-marker.png",
-    "tên icon": "消防署",
-    "mô tả icon": "消防署",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/2868706875-shoubo-marker.png"
-  },
-  {
-    "id": 4,
-    "icon": "aed-marker.png",
-    "tên icon": "AED",
-    "mô tả icon": "AED",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/2245084818-aed-marker.png"
-  },
-  {
-    "id": 5,
-    "icon": "bouka-marker.png",
-    "tên icon": "防火水槽",
-    "mô tả icon": "防火水槽",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/2844262888-bouka-marker.png"
-  },
-  {
-    "id": 6,
-    "icon": "roujinhome-marker.png",
-    "tên icon": "老人ホーム",
-    "mô tả icon": "老人ホーム",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/3082487779-roujinhome-marker.png"
-  },
-  {
-    "id": 7,
-    "icon": "hinan-camp-marker.png",
-    "tên icon": "避難所",
-    "mô tả icon": "避難所",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/2312710186-hinan-camp-marker.png"
-  },
-  {
-    "id": 8,
-    "icon": "hinan-bldg-marker.png",
-    "tên icon": "避難ビル",
-    "mô tả icon": "避難ビル",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/1913503915-hinan-bldg-marker.png"
-  },
-  {
-    "id": 9,
-    "icon": "icon_infoTag.png",
-    "tên icon": "情報アイコン",
-    "mô tả icon": "情報アイコン",
-    "url icon": "https://bitbucket.org/repo/yEpMMp/images/3677660116-icon_infoTag.png"
-  }
-]
+    {
+      "id": 1,
+      "icon": "medicine-marker.png",
+      "name": "医療機関",
+      "description": "医療機関",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/4038488306-medicine-marker.png"
+    },
+    {
+      "id": 2,
+      "icon": "keisatu-marker.png",
+      "name": "警察署・交番",
+      "description": "警察署・交番",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/393250868-keisatu-marker.png"
+    },
+    {
+      "id": 3,
+      "icon": "shoubo-marker.png",
+      "name": "消防署",
+      "description": "消防署",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/2868706875-shoubo-marker.png"
+    },
+    {
+      "id": 4,
+      "icon": "aed-marker.png",
+      "name": "AED",
+      "description": "AED",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/2245084818-aed-marker.png"
+    },
+    {
+      "id": 5,
+      "icon": "bouka-marker.png",
+      "name": "防火水槽",
+      "description": "防火水槽",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/2844262888-bouka-marker.png"
+    },
+    {
+      "id": 6,
+      "icon": "roujinhome-marker.png",
+      "name": "老人ホーム",
+      "description": "老人ホーム",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/3082487779-roujinhome-marker.png"
+    },
+    {
+      "id": 7,
+      "icon": "hinan-camp-marker.png",
+      "name": "避難所",
+      "description": "避難所",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/2312710186-hinan-camp-marker.png"
+    },
+    {
+      "id": 8,
+      "icon": "hinan-bldg-marker.png",
+      "name": "避難ビル",
+      "description": "避難ビル",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/1913503915-hinan-bldg-marker.png"
+    },
+    {
+      "id": 9,
+      "icon": "icon_infoTag.png",
+      "name": "情報アイコン",
+      "description": "情報アイコン",
+      "url": "https://bitbucket.org/repo/yEpMMp/images/3677660116-icon_infoTag.png"
+    }
+  ]
