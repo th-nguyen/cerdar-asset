@@ -4,6 +4,7 @@
       "icon": "medicine-marker.png",
       "name": "医療機関",
       "description": "医療機関",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/medicine-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/medicine-marker.png"
     },
     {
@@ -11,6 +12,7 @@
       "icon": "keisatu-marker.png",
       "name": "警察署・交番",
       "description": "警察署・交番",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/keisatu-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/keisatu-marker.png"
     },
     {
@@ -18,6 +20,7 @@
       "icon": "shoubo-marker.png",
       "name": "消防署",
       "description": "消防署",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/keisatu-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/shoubo-marker.png"
     },
     {
@@ -25,6 +28,7 @@
       "icon": "aed-marker.png",
       "name": "AED",
       "description": "AED",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/aed-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/aed-marker.png"
     },
     {
@@ -32,6 +36,7 @@
       "icon": "bouka-marker.png",
       "name": "防火水槽",
       "description": "防火水槽",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/bouka-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/bouka-marker.png"
     },
     {
@@ -39,6 +44,7 @@
       "icon": "roujinhome-marker.png",
       "name": "老人ホーム",
       "description": "老人ホーム",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/roujinhome-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/roujinhome-marker.png"
     },
     {
@@ -46,6 +52,7 @@
       "icon": "hinan-camp-marker.png",
       "name": "避難所",
       "description": "避難所",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/hinan-camp-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/hinan-camp-marker.png"
     },
     {
@@ -53,6 +60,7 @@
       "icon": "hinan-bldg-marker.png",
       "name": "避難ビル",
       "description": "避難ビル",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/hinan-bldg-marker.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/hinan-bldg-marker.png"
     },
     {
@@ -60,6 +68,7 @@
       "icon": "icon_infoTag.png",
       "name": "情報アイコン",
       "description": "情報アイコン",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_infoTag.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_infoTag.png"
     }
   ]

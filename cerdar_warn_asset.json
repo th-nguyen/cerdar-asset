@@ -4,6 +4,7 @@
       "icon": "icon_warn0.png",
       "name": "火災",
       "description": "火災",
+      "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn0.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn0.png"
     },
     {
@@ -11,6 +12,7 @@
         "icon": "icon_warn1.png",
         "name": "浸水",
         "description": "浸水",
+        "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png"
     },
     {
@@ -18,13 +20,15 @@
         "icon": "icon_warn2.png",
         "name": "土砂崩れ",
         "description": "土砂崩れ",
-        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/warn2.png"
+        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn2.glb",
+        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn2.png"
     },
     {
         "id": 4,
         "icon": "icon_warn3.png",
         "name": "道路閉塞(家屋倒壊)",
         "description": "道路閉塞(家屋倒壊)",
+        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn3.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn3.png"
     },
     {
@@ -32,6 +36,7 @@
         "icon": "icon_warn3.png",
         "name": "道路閉塞(ブロック塀倒壊)",
         "description": "道路閉塞(ブロック塀倒壊)",
+        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn3.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn3.png"
     },
     {
@@ -39,6 +44,7 @@
         "icon": "icon_warn1.png",
         "name": "津波",
         "description": "津波",
+        "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png"
     },
     {
@@ -46,6 +52,7 @@
         "icon": "icon_warn0.png",
         "name": "道路閉塞(液状化)",
         "description": "道路閉塞(液状化)",
-        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn0.png"
+        "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
+        "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png"
     }
 ]
