@@ -30,7 +30,7 @@
         "description": "土砂崩れが発生",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn2.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn2.png",
-        "color": "#ffff00",
+        "color": "#996600",
         "risk_type": 2,
         "message1": "【通行禁止】土砂崩れが発生しているエリアに近づいています！通行はできません！",
         "message2": "【通行禁止】土砂崩れが発生しているエリアに侵入しました！危険です！ただちにエリアから離れてください！"
