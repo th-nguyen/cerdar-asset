@@ -6,7 +6,8 @@
       "description": "火災",
       "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn0.glb",
       "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn0.png",
-      "color":"#ff0000"
+      "color":"#ff0000",
+      "risk_type":0
     },
     {
         "id": 1,
@@ -15,7 +16,8 @@
         "description": "浸水",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png",
-        "color":"#0000ff"
+        "color":"#0000ff",
+        "risk_type":1
     },
     {
         "id": 2,
@@ -24,7 +26,8 @@
         "description": "土砂崩れ",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn2.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn2.png",
-        "color":"#ffff00"
+        "color":"#ffff00",
+        "risk_type":2
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "description": "道路閉塞(家屋倒壊)",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn3.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn3.png",
-        "color":"#ffff00"
+        "color":"#ffff00",
+        "risk_type":4
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "description": "道路閉塞(ブロック塀倒壊)",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn3.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn3.png",
-        "color":"#ffff00"
+        "color":"#ffff00",
+        "risk_type":5
     },
     {
         "id": 7,
@@ -51,7 +56,8 @@
         "description": "津波",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png",
-        "color":"#0000ff"
+        "color":"#0000ff",
+        "risk_type":7
     },
     {
         "id": 8,
@@ -60,6 +66,7 @@
         "description": "道路閉塞(液状化)",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png",
-        "color":"#0000ff"
+        "color":"#0000ff",
+        "risk_type":8
     }
 ]
