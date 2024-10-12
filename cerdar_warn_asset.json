@@ -78,7 +78,7 @@
         "description": "揺れに注意！！！",
         "model": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/3dmodel/icon_warn1.glb",
         "url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_warn1.png",
-        "color": "#0000ff",
+        "color": "#33FF62",
         "risk_type": 8,
         "message1": "【通行注意】液状化エリアに近づいてます！",
         "message2": "【通行注意】液状化エリアに入ってます！"
