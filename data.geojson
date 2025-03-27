@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5357ef1b-0297-4951-bed1-a9d1adab9995",
+        "id": "ed592e18-fc0e-4eb3-b87e-6b1348b5fd4d",
         "info_type": "info",
         "icon": "keisatu-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/keisatu-marker.png",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "d4acbc48-357e-4d87-a412-1a6b50ce2dbf",
+        "id": "26ce3829-a89f-4a22-9325-65dbb83430ba",
         "info_type": "info",
         "icon": "keisatu-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/keisatu-marker.png",
@@ -44,7 +44,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "65273156-1e33-4e3c-8820-cfdda883503c",
+        "id": "b68debd4-f4dd-418b-a963-005f41bc8877",
         "info_type": "info",
         "icon": "medicine-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/medicine-marker.png",
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "e462f929-5493-41fe-8ef5-c3ea7cbbfaf6",
+        "id": "38d48531-d694-49a4-b112-96ac67f08d65",
         "info_type": "info",
         "icon": "medicine-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/medicine-marker.png",
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "c8bef88a-aafa-4b86-97c8-9607de95401f",
+        "id": "78435e13-9306-4231-89e9-38acc6721fee",
         "info_type": "info",
         "icon": "medicine-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/medicine-marker.png",
@@ -104,7 +104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "88146557-6722-4d53-90b8-44cbdcac94f2",
+        "id": "48a68c61-bad5-4f1f-aabc-0681512a9878",
         "info_type": "info",
         "icon": "roujinhome-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/roujinhome-marker.png",
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5a87b355-60cb-473f-b0e1-bc5de48a8a82",
+        "id": "796d302a-6f42-4d01-bd49-3e73eda39de8",
         "info_type": "info",
         "icon": "bouka-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/bouka-marker.png",
@@ -144,7 +144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "a1995bd4-90cc-4df5-b382-b66cb4184b6a",
+        "id": "297808c4-2065-405f-be40-cb07ed724124",
         "info_type": "info",
         "icon": "medicine-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/medicine-marker.png",
@@ -164,7 +164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5a69c391-d3b6-4e2e-bda0-6ea033accf5d",
+        "id": "83ce2eb7-3fe7-4ddc-b8e4-8fdb9d0f7193",
         "info_type": "info",
         "icon": "hinan-bldg-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/hinan-bldg-marker.png",
@@ -184,7 +184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "7d09f510-f758-4624-b3be-1dc5e8967dac",
+        "id": "82a806ee-a2d8-4187-9127-c3b8706a56a1",
         "info_type": "info",
         "icon": "hinan-camp-marker.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/hinan-camp-marker.png",
@@ -204,7 +204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2ae37eb1-bae3-4a1d-926a-cde769c88ee7",
+        "id": "2ba9cd90-797a-4c33-834d-0e424d9f49b5",
         "info_type": "info",
         "icon": "icon_infoTag.png",
         "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/icon_infoTag.png",
@@ -224,7 +224,103 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "160c3f86-a794-4033-b46e-3baa19ee1cd6",
+        "id": "b8f37bb8-84ea-4789-aae6-76834cd60bb6",
+        "info_type": "info",
+        "icon": "shoubo-marker.png",
+        "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/shoubo-marker.png",
+        "name": "消防署",
+        "description": "消防署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.45920449703345,
+          34.71250165276366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b0746f0-6197-4dfe-83b2-d6f2dae777b1",
+        "info_type": "info",
+        "icon": "medicine-marker.png",
+        "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/medicine-marker.png",
+        "name": "医療機関",
+        "description": "医療機関",
+        "pic_type": "movie",
+        "movie": "https://www.youtube.com/embed/8AHcJXs5R0Q?si=KS2r3AcvUrI4sSS2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4604061442361,
+          34.71223172385236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e57de298-29b7-4a86-bd16-19cc6fd780ea",
+        "info_type": "info",
+        "icon": "keisatu-marker.png",
+        "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/keisatu-marker.png",
+        "name": "医療機関",
+        "description": "医療機関",
+        "pic_type": "movie",
+        "movie": "https://www.youtube.com/embed/8AHcJXs5R0Q?si=KS2r3AcvUrI4sSS2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.460419659215,
+          34.712485520438506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "020d702a-7d36-4593-8cdb-2b7a04a1d19e",
+        "info_type": "info",
+        "icon": "shoubo-marker.png",
+        "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/shoubo-marker.png",
+        "name": "消防署",
+        "description": "消防署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.46013279020917,
+          34.712377012477404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cff33e15-454c-4e45-9d56-c14684875bf7",
+        "info_type": "info",
+        "icon": "roujinhome-marker.png",
+        "icon_url": "https://raw.githubusercontent.com/th-nguyen/cerdar-asset/main/images/roujinhome-marker.png",
+        "name": "医療機関",
+        "description": "医療機関",
+        "pic_type": "movie",
+        "movie": "https://www.youtube.com/embed/8AHcJXs5R0Q?si=KS2r3AcvUrI4sSS2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.46061671459927,
+          34.71235033757388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ebbeec09-fc80-4d06-b88a-7d728f7bfecd",
         "info_type": "warn",
         "icon": "icon_warn0.png",
         "name": "火災",
@@ -247,7 +343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5d865544-21af-4dae-871e-b58586357bc6",
+        "id": "6891341d-cf9d-4619-85d9-f476a7559f3f",
         "info_type": "warn",
         "icon": "icon_warn1.png",
         "name": "浸水",
@@ -271,7 +367,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3cf7af63-3549-43b5-a69f-ca5c7061008d",
+        "id": "260af914-16c5-403e-a06b-5c28f3c66bcf",
         "info_type": "warn",
         "icon": "icon_warn2.png",
         "name": "土砂崩れ",
@@ -294,7 +390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "d75dc1f8-73f4-402b-937b-5da87e853192",
+        "id": "59bd0421-9531-4565-be93-257532373e73",
         "info_type": "warn",
         "icon": "icon_warn3.png",
         "name": "道路閉塞(家屋倒壊)",
@@ -317,7 +413,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ec1ea532-8c48-4f6f-b1e0-63701dfb4eec",
+        "id": "e89b2321-d8cb-4cd9-a654-463119d48f1d",
         "info_type": "warn",
         "icon": "icon_warn0.png",
         "name": "道路閉塞(液状化)",
@@ -340,7 +436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "181577e6-01e5-49cc-a920-572b23298e35",
+        "id": "48ebc85f-8bc2-41e2-b026-fdc761ba5ae7",
         "info_type": "warn",
         "icon": "icon_warn3.png",
         "name": "道路閉塞(ブロック塀倒壊)",
